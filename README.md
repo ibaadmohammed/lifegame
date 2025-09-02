@@ -39,4 +39,5 @@ Level Up - Watch your character grow stronger over time
 Add Custom Quests - Click "+ Add Quest" to create personalized challenges
 Track Progress - Monitor your daily completion rate and achievements
 
-The app turns mundane daily tasks into exciting RPG-style achievements, making it easier to stay motivated and build positive habits. Every action you take contributes to your character's growth, creating a compelling gamified experience that encourages consistent self-improvement!RetryClaude can make mistakes. Please double-check responses. Sonnet 4
+The app turns mundane daily tasks into exciting RPG-style achievements, making it easier to stay motivated and build positive habits. Every action you take contributes to your character's growth, creating a compelling gamified experience that encourages consistent self-improvement!RetryClaude can make mistakes. Please double-check responses.
+https://lifegame-ten.vercel.app/
